@@ -29,7 +29,7 @@ Then, run the node server locally.
 	
 Now, open the local application on port 3000 at the URL: `http://localhost:7000/`.
 
-How The App Should Work Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. There is Add a the Burger button. When user clicks it, the burger name will display on the left side of the page waiting to be devoured. When the user clicks on the burger name, it will move to the right side of the page. The app will store every burger in a database.
+How The App Should Work Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. There is Add A Burger button. When user clicks it, the burger name will display on the left side of the page waiting to be devoured. When the user clicks on the burger name, it will move it to the right side of the page. The app will store every burger in a database.
 Have fun, enjoy and have a delious burger!
 
 
